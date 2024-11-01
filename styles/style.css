@@ -151,7 +151,7 @@
   flex-basis: 334px;
   flex-grow: 1;
   height: 563px;
-  position: relative;
+  position: relative; 
 }
 
 .card-link {
