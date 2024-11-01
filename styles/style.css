@@ -145,13 +145,13 @@
   list-style: none;
   justify-content: space-between;
   gap: 24px;
-  position: relative;
 }
 
 .lots_card-list-item {
   flex-basis: 334px;
   flex-grow: 1;
   height: 563px;
+  position: relative;
 }
 
 .card-link {
