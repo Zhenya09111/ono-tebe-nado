@@ -15,7 +15,7 @@
 
 .header_links-list-item {
   font-size: 18px;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: normal;
   text-underline-offset: 4px;
 }
@@ -39,7 +39,7 @@
 
 .address_theme_islands {
   font-style: normal;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   padding-right: 36px;
   line-height: 1.35;
@@ -68,7 +68,7 @@
 
 .cover-title {
   font-size: 100px;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   color: #fff;
   margin-bottom: 132px;
@@ -118,7 +118,7 @@
   font-size: 22px;
   text-transform: uppercase;
   color: #fff;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
 }
 
 .bet-button {
@@ -131,7 +131,7 @@
   font-size: 22px;
   text-transform: uppercase;
   color: #fff;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
 }
 
 .lots {
@@ -145,7 +145,7 @@
   color: #000;
   margin-bottom: 27px;
   margin-left: 40px;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
 }
 
 .lots_card-list {
@@ -159,7 +159,7 @@
 .lots_card-list-item {
   flex-basis: 334px;
   flex-grow: 1;
-  height: 563px;
+  min-height: 563px;
   position: relative;
 }
 
@@ -182,7 +182,7 @@
 }
 
 .card_title {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: bold;
   font-size: 22px;
   line-height: 120%;
@@ -192,7 +192,7 @@
 }
 
 .card_text {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: normal;
   font-size: 20px;
   line-height: 120%;
@@ -212,7 +212,7 @@
 }
 
 .lots_look-more-link {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 20px;
   color: #000;
@@ -247,7 +247,7 @@
 }
 
 .about_tittle {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 40px;
   text-transform: uppercase;
@@ -278,7 +278,7 @@
   color: #000;
   text-align: center;
   font-size: 18px;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: normal;
   text-underline-offset: 5px;
 }
